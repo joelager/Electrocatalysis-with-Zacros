@@ -1,6 +1,10 @@
 # KMC-simulations-for-electrocatalysis-with-Zacros
 This repository includes 5 Jupyter notebooks and corresponding folders containing sample input and output files for KMC simulations for the electrocatalysis with Zacros. The folder *zacros_wrapper* is from the authors of software Zacros. *Units.py* contains frequently used units.
 
+Reference  
+> Li, J.; Maresi, I.; Lum, Y.; Ager III, J. W. Effects of Surface Diffusion in Electrocatalytic CO. J. Chem. Phys. 2021. [DOI:10.1063/5.0068517](https://aip.scitation.org/doi/10.1063/5.0068517)
+:
+
 Specifically, 
 
 *01-parameter-CO-stripping+Goodpaster.ipynb* is for parameters conversion to the form for Zacros using the samples from the CO stripping model and Goodpaster model.
