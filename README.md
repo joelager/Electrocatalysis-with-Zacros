@@ -3,7 +3,6 @@ This repository includes 5 Jupyter notebooks and corresponding folders containin
 
 Reference  
 > Li, J.; Maresi, I.; Lum, Y.; Ager III, J. W. Effects of Surface Diffusion in Electrocatalytic CO. J. Chem. Phys. 2021. [DOI:10.1063/5.0068517](https://aip.scitation.org/doi/10.1063/5.0068517)
-:
 
 Specifically, 
 
